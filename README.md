@@ -1,1 +1,1 @@
-# 📅 Día 1 - [02/02/2026]
+Bootcamp - Apuntes
