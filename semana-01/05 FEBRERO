@@ -22,6 +22,15 @@
 -Subir los cambios a GitHub y visaulizar y trastear
 - Seguimos aprendiendo comandos: git add ./ git commit -m "texto"/ git push/ code .]
 
+## 💡 Exploramos:
+
+git log --online: muestra todos los commits en el historial del repositorio.
+
+git remote -v: direccón remota.
+
+git branch: rama del repositorio. Estamos en la rama principal (main)
+
+Exploramos
 ## ❓ Dudas que tengo
 
 [ ]
