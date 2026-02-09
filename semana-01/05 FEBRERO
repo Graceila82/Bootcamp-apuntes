@@ -30,7 +30,16 @@ git remote -v: direccón remota.
 
 git branch: rama del repositorio. Estamos en la rama principal (main)
 
-Exploramos
+## 💡 Investigamos:
+
+1. git pull: descargar los cambios mas recientes desde un repositorio remoto y fusionarlos automaticamente en tu rama local actual.
+
+2. . gitignore: indica archivos o carpetas que deben ser omitidos .
+
+3. Diferencia entre git add . y git add nobre-archivo:
+     - Git add: prepara los cambios realizados en el directorio de trabajo para incluirlos en el proximo commit.
+     - Git add nombre-archivo: prepara cambios especificos de un archivo.
+     
 ## ❓ Dudas que tengo
 
 [ ]
