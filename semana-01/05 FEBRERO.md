@@ -46,7 +46,7 @@ git branch: rama del repositorio. Estamos en la rama principal (main)
 
 ## 🔗 Recursos útiles
 
-- [Enlace a algún recurso que te haya gustado]
+- [https://explainshell.com]
 
 ---
 
